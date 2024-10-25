@@ -5,4 +5,4 @@ permalink: /memes
 ---
 
 
-{% include image-gallery.html folder="https://memes.casjay.xyz/images" %}
+{% include image-gallery.html folder="https://memes.onhealth.xyz/images" %}
